@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Next.js Sass Starter
 
-You can use the [editor on GitHub](https://github.com/MaksumRifai/next-sass/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Use Sass to start your Next.js app with CSS superpowers!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ⚡️ Quick Start
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/MaksumRifai/next-sass/)
 
-### Markdown
+## 🚀 Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Run the following command to create a new project with this Starter:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+yarn create next-app my-app -e https://github.com/MaksumRifai/next-sass/
+# or
+npx create-next-app my-app -e https://github.com/MaksumRifai/next-sass/
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Once the project and dependencies are finished installing, you can navigate to that directory and start up the development server with:
+```
+yarn dev
+# or
+npm run dev
+```
 
-### Jekyll Themes
+Open [http://localhost:3000](http://localhost:3000) with your browser to see your new project!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaksumRifai/next-sass/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 🧐 What's inside?
+This Starter includes [Sass](https://sass-lang.com/) which is a way to provide superpowers to your CSS.
 
-### Support or Contact
+The rest of the Starter is based off of the Next.js default starter.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 📚 Learn More About Next.js
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
